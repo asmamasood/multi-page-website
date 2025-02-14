@@ -2,14 +2,14 @@ export default function Contact() {
   return (
     <>
       
-      <main className="pt-20 bg-pink-300 min-h-screen">
-        <section className="text-center py-16 bg-pink-300 shadow-lg">
-          <h1 className="text-4xl font-bold text-gray-800">Contact Us</h1>
+      <main className=" min-h-screen">
+        <section className="text-center py-16 bg-purple-400 shadow-lg">
+          <h1 className="text-4xl font-bold text-gray-800 mt-8">Contact Us</h1>
           <p className="text-gray-600 mt-4 max-w-2xl mx-auto">
             Have questions or need help Reach out to us and we will be happy to assist you
           </p>
         </section>
-        <section className="container mx-auto py-16 px-6 bg-blue-200">
+        <section className="container mx-auto py-16 px-6 bg-purple-300">
           <h2 className="text-3xl font-semibold text-gray-800 mb-6">Get in Touch</h2>
           <form className="bg-gray-200 p-6 rounded-lg shadow-md max-w-lg mx-auto">
             <div className="mb-4 ">
